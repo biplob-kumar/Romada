@@ -1,0 +1,95 @@
+/*  google froont  */
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+  h1,h2,h3,h4,h5,h6, a.span ,p{
+    font-family: 'Rubik', sans-serif;
+  }
+/*  google  end   */
+
+/*  default css start */
+  body{
+    overflow-x: hidden;
+  }
+nav{
+    background: url(./img/bg-slider1.jpg) center no-repeat;
+    background-size: cover;
+}
+/*  default css  end  */
+/*   nav css start */
+a.nav-link.active {
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin: 10px ;
+}
+a.navbar-brand {
+    font-weight: bold;
+}
+/*   nav css  end  */
+
+/*  hero section css staret */
+.hero-section{
+    background: url(./img/bg-slider1.jpg) no-repeat center;
+    height: 90vh;
+    background-size: cover;
+}
+.hero-content{
+
+}
+.hero-content h1{
+    font-size: 3.5rem;
+    margin-bottom: 2rem;
+}
+.hero-content h6{
+    color: rgb(95, 112, 143);
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
+.hero-content h6{}
+
+input#tnp-1 {
+    margin-top: 2rem;
+    padding: 15px 100px;
+    border-radius: 20px;
+    border: none;
+}
+input.tnp-button {
+    margin-top: 2rem;
+    color: white;
+    background-color: #da3440;
+    padding: 15px 50px;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+}
+.hro-right{}
+.hro-right img{
+max-width: 100%;
+}
+
+/*  hero section css  end  */
+
+/*  planing-section css start */
+.planing-section{
+    padding: 100px 0;
+}
+.card i {
+    height: 120px;
+    font-size: 3rem;
+    color: #da3440;
+}
+.card-title{
+    margin-bottom: 10px;
+}
+.arow{
+    margin-left: 100px;
+}
+.card:hover  {
+    color: whitesmoke;
+    background-color:#da3440;
+}
+.card i:hover{
+    color: whitesmoke;
+}
+
+/*  planing-section css end  */
