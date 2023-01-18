@@ -259,3 +259,27 @@ margin: 10px;
     font-weight: 800;
 }
 /*  clirnt-section  end  */
+
+/*  pricing-table section srart*/
+.join-us-section-2{
+    background-color: #fff6f5 !important;
+    height: 200vh;
+}
+
+.pricing-card .card{
+     width: 100%;
+    height: 90vh;
+}
+.card-content{}
+.card-content h6{}
+.card-content span{
+    font-size: 1rem;
+}
+.card-content button{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    background-color:#ff4a57;
+    color: black;
+    font-weight: bold;
+}
+
+/*  pricing-table section  end */
