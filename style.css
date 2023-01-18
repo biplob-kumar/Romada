@@ -151,3 +151,38 @@ max-width: 100%;
     color: #da3440;
 }
 /*  problemsection  end  */
+
+/*  business-section start */
+
+.business-section{
+    background-color: #fff6f5 !important;
+}
+.busines-left-section img{
+    max-width: 100%;
+}
+.business-right-section h6{
+    color: #da3440;
+}
+.business-right-section h1{
+    font-size: 4rem;
+    margin-bottom: 20px
+}
+.business-right-section p{
+    line-height: 30px;
+    
+}
+.business-right-section i{
+    font-size: 4rem;
+    color: #da3440;
+    margin-bottom: 20px;
+}
+.business-right-section button{
+    font-weight: bold;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 15px 30px ;
+     background-color: #da3440;
+}
+
+/*  business-section  end  */
