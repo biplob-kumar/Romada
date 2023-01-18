@@ -140,7 +140,7 @@ max-width: 100%;
 .pronblem-content  button{
     margin-top: 2rem;
     color: white;
-    background-color: #da3440;
+    background-color:#ff4a57;
     padding: 15px 50px;
     border-radius: 20px;
     border: none;
@@ -159,6 +159,8 @@ max-width: 100%;
 }
 .busines-left-section img{
     max-width: 100%;
+    width: 500px;
+    height: auto;
 }
 .business-right-section h6{
     color: #da3440;
@@ -181,8 +183,28 @@ max-width: 100%;
     color: white;
     border-radius: 20px;
     border: none;
-    padding: 15px 30px ;
-     background-color: #da3440;
+    padding: 15px 50px ;
+     background-color: #ff4a57;
 }
 
 /*  business-section  end  */
+
+/*  joi us button css start */
+.join-us-btn button{
+    margin-bottom: 20px;
+    background-color: #ff4a57;
+    padding: 15px 50px ;
+    border: none;
+    border-radius: 20px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.join-us-content{}
+.join-us-content h1 {
+    font-size: 3rem;
+}
+.join-us-content h6{
+    color: #da3440;
+    margin-top: 2rem;
+}
+/*  joi us button css end   */
