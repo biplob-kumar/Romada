@@ -121,5 +121,33 @@ max-width: 100%;
     padding: 15px 35px ;
     border: none;
     border-radius: 20px;
+    color: whitesmoke;
+    font-weight: bold;
 }
 /*  about css  end  */
+
+/*  problemsection strart */
+.problem-right-img img{
+    max-width: 100%;
+}
+.pronblem-content p{
+   margin-bottom: 25px;
+}
+.pronblem-content  i{
+    color: #da3440;
+}
+
+.pronblem-content  button{
+    margin-top: 2rem;
+    color: white;
+    background-color: #da3440;
+    padding: 15px 50px;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+}
+
+.pronblem-content h6{
+    color: #da3440;
+}
+/*  problemsection  end  */
