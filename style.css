@@ -73,8 +73,12 @@ max-width: 100%;
 .planing-section{
     padding: 100px 0;
 }
+.card{
+    margin-top:4rem;
+    height: 60vh;
+}
 .card i {
-    height: 120px;
+   
     font-size: 3rem;
     color: #da3440;
 }
@@ -93,3 +97,29 @@ max-width: 100%;
 }
 
 /*  planing-section css end  */
+
+/*  about css start */
+.about{
+    background-color: #fff6f5 !important;
+}
+.left-img img{
+    max-width: 100%;
+}
+.about-right-content {}
+.about-right-content h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+.about-right-content h6 {
+    color: #da3440;
+    margin-bottom: 20px;
+}
+.about-right-content p {}
+.about-right-content button {
+    margin-bottom: 20px;
+    background-color: #ff4a57;
+    padding: 15px 35px ;
+    border: none;
+    border-radius: 20px;
+}
+/*  about css  end  */
