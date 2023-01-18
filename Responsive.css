@@ -253,3 +253,9 @@ margin: 10px;
 
   /*   cline section css end  */
 
+  @media only screen and (max-width: 480px) {
+    .footer-section{
+    
+    }
+  }
+
