@@ -232,3 +232,30 @@ margin: 10px;
 }
 
 /*  about-sectio-3 end  */
+
+/*  clirnt-section start */
+.client-section{
+    background: url(./img/bg-parallax2.jpg) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    
+}
+.client-content{
+    color: whitesmoke;
+}
+.client-content h1{
+    font-size: 3.5rem;
+    font-weight: 800;
+}
+.client-content i{
+    color: #ff4a57;
+    font-size: 4rem;
+}
+.client-content p{
+    font-size: 1.5rem;
+}
+.clien-user h3{
+    font-weight: 800;
+}
+/*  clirnt-section  end  */
