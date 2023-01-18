@@ -190,3 +190,33 @@
   }
   /*join  us section   end   */
 
+  /*   */
+
+
+  @media only screen and (max-width: 480px) {
+    /*  about-sectio-3 start */
+.about-3-section {
+    background-color: #fff6f5 !important;
+}
+
+.about3-content h6{
+    color: #da3440;
+}
+.about3-content h1{
+    font-size: 1.2rem;
+}
+
+.about-method i{
+color: #ff4a57;
+font-size: 3rem;
+margin: 10px;
+
+}
+.about-method h4{
+    font-size: 1rem;
+}
+/*  about-sectio-3 end  */
+  }
+
+  /*   */
+

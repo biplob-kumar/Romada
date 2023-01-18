@@ -208,3 +208,27 @@ max-width: 100%;
     margin-top: 2rem;
 }
 /*  joi us button css end   */
+
+/*  about-sectio-3 start */
+.about-3-section {
+    background-color: #fff6f5 !important;
+}
+
+.about3-content h6{
+    color: #da3440;
+}
+.about3-content h1{
+    font-size: 3rem;
+}
+.about3-content{}
+.about-method i{
+color: #ff4a57;
+font-size: 3rem;
+margin: 10px;
+
+}
+.about-method h4{
+    font-size: 1.5rem;
+}
+
+/*  about-sectio-3 end  */
